@@ -17,6 +17,9 @@ The curriculum index uses the module names and order from the supplied FSIDM bro
 ## Use of this repository
 Resources are intended for learning and practical implementation. Checklists are educational aids, not guarantees of rankings, leads, sales, employment or certification outcomes. Do not upload client-confidential data, credentials or personal information.
 
+## Official websites
+- [FSIDM — Full Stack Institute of Digital Marketing](https://fsidm.in/)
+- [Pranav Veerani — Digital Growth Consultant](https://pranavveerani.com/)
+
 ## Maintained by
-FSIDM — Full Stack Institute of Digital Marketing  
-https://fsidm.in/
+FSIDM — Full Stack Institute of Digital Marketing
